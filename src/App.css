@@ -1,0 +1,14 @@
+.card-cont{
+  width: 30vw;
+  margin-top: 2rem;
+}
+.avatar{
+  margin-right: 5px;
+}
+.wrapper{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+}
+
